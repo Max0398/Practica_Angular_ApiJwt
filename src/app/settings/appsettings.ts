@@ -1,3 +1,3 @@
 export const appsettings={
-  apiUrl:"https://localhost:7237/api/"
+  apiUrl:"http://pruebasjwt.somee.com/api/"
 }
